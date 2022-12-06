@@ -11,7 +11,7 @@ SigLevel = Optional TrustAll
 Server = https://osennij-morok.github.io/arch-repo/x86_64
 ```
 
-Update your repositories state:
+Download and refresh package databases:
 ```bash
 pacman -Sy
 ```
