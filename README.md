@@ -4,7 +4,7 @@ This repository is made for my personal projects.
 
 # Usage
 
-Add the following lines to the end of /etc/pacman.conf:
+Add the following lines to the end of `/etc/pacman.conf`:
 ```
 [osennij-morok]
 SigLevel = Optional TrustAll
