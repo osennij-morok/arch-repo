@@ -1,0 +1,10 @@
+image: debian:latest
+
+pages:
+  stage: deploy
+  artifacts:
+    paths:
+      - public
+    only:
+      - main
+
