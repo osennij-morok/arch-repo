@@ -18,5 +18,5 @@ pacman -Sy
 
 To get the list of packages use
 ```bash
-pacman -Ql osennij-morok
+pacman -Sl osennij-morok
 ```
